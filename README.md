@@ -1,4 +1,2 @@
-# facebook_graph_analysis
-A graph analysis on Facebook users.
-
-Please check master branch
+# Please check master branch
+Facebook graph analysis
